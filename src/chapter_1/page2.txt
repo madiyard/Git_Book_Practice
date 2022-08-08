@@ -3,3 +3,6 @@ Page 2
 Some main text here
 
 Created 8/8/2022 9:21AM
+
+I edited page 2 after commited here.
+And it turned blue
