@@ -1,3 +1,6 @@
 Chapter 2
 
 Some main test here
+
+---------
+Added new line after commit
